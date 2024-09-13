@@ -28,6 +28,24 @@
         <mxCell id="tRnWbjLhNTg3fLnv19oh-10" value="4.检查样式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="890" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-11" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 0px; font-family: &amp;quot;Roboto Slab&amp;quot;, ff-tisa-web-pro, Georgia, Arial, sans-serif; font-size: 24px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;&lt;a style=&quot;background-color: initial; font-family: Helvetica; font-size: 12px; font-weight: normal; text-align: center;&quot; href=&quot;https://www.kernel.org/doc/html/v4.17/translations/zh_CN/coding-style.html&quot;&gt;Linux 内核代码风格 — The Linux Kernel documentation&lt;/a&gt;&lt;/h2&gt;&lt;h2 style=&quot;box-sizing: border-box; margin-top: 0px; font-family: &amp;quot;Roboto Slab&amp;quot;, ff-tisa-web-pro, Georgia, Arial, sans-serif; font-size: 24px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;19) 内联汇编&lt;/h2&gt;&lt;h2 style=&quot;box-sizing: border-box; margin-top: 0px; font-family: &amp;quot;Roboto Slab&amp;quot;, ff-tisa-web-pro, Georgia, Arial, sans-serif; font-size: 24px; color: rgb(64, 64, 64); text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;20) 条件编译&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="660" y="850" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-12" value="5.补丁接受者&lt;div&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 13px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;查看 MAINTAINERS 文件和源代码修订历史以查看那些维护者是谁。脚本 scripts/get_maintainer.pl 在这一步非常有用。如果你找不到你正在处理的子系统的维护者&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1090" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-13" value="6.补丁文本形式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-14" value="7.电子邮件大小。回复审查邮件，主题包含patch," style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-15" value="8.提交者其他身份" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-16" value="9.patch的格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1700" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
