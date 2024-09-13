@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.13">
   <diagram name="Page-1" id="KjhQgxA5WtygTDXYkJ-I">
-    <mxGraphModel>
+    <mxGraphModel dx="746" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-1" value="&lt;a href=&quot;https://www.kernel.org/doc/html/v4.17/process/submitting-patches.html&quot;&gt;Submitting patches: the essential guide to getting your code into the kernel — The Linux Kernel documentation&lt;/a&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-2" value="0.克隆" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-4" value="1.diff(git add会自带)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-5" value="0.克隆" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="170" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
