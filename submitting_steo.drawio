@@ -46,6 +46,9 @@
         <mxCell id="tRnWbjLhNTg3fLnv19oh-16" value="9.patch的格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="1700" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="tRnWbjLhNTg3fLnv19oh-17" value="一个实例：&lt;div&gt;&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; text-wrap: wrap;&quot;&gt;commit 2ac9deb7e087f0b461c3559d9eaa6b9cf19d3fa8&lt;br/&gt;Author: Bob Zhou &amp;lt;bob.zhou@amd.com&amp;gt;&lt;br/&gt;Date:   Fri May 31 15:01:22 2024 +0800&lt;br/&gt;&lt;br/&gt;    drm/amd/pm: Fix the null pointer dereference for vega10_hwmgr&lt;br/&gt;    &lt;br/&gt;    commit 50151b7f1c79a09117837eb95b76c2de76841dab upstream.&lt;br/&gt;    &lt;br/&gt;    Check return value and conduct null pointer handling to avoid null pointer dereference.&lt;br/&gt;    &lt;br/&gt;    Signed-off-by: Bob Zhou &amp;lt;bob.zhou@amd.com&amp;gt;&lt;br/&gt;    Reviewed-by: Tim Huang &amp;lt;Tim.Huang@amd.com&amp;gt;&lt;br/&gt;    Signed-off-by: Alex Deucher &amp;lt;alexander.deucher@amd.com&amp;gt;&lt;br/&gt;    Signed-off-by: Sasha Levin &amp;lt;sashal@kernel.org&amp;gt;&lt;br/&gt;    Signed-off-by: Mukul Sikka &amp;lt;mukul.sikka@broadcom.com&amp;gt;&lt;br/&gt;    Signed-off-by: Greg Kroah-Hartman &amp;lt;gregkh@linuxfoundation.org&amp;gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1830" width="470" height="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
